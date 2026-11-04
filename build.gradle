@@ -19,7 +19,7 @@ dependencies {
 }
 
 group = 'com.snuffys.tickcounter'
-version = '1.0.3'
+version = '1.1.0'
 
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
